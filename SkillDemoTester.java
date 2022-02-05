@@ -4,6 +4,7 @@ import org.junit.*;
 public class SkillDemoTester {
     @Test
     public void ToReturn1() {
-        assertEquals(2, SkillDemo.toReturn1());//fails
+        //assertEquals(1, SkillDemo.toReturn1());
+        assertEquals(1, SkillDemo.toReturn1());
     }
 }
