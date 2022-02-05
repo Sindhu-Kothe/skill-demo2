@@ -1,1 +1,5 @@
-public class SkillDemo{} //To be edited in vscode
+public class SkillDemo{
+    public static int toReturn1(){
+        return 1;
+    }
+} 
